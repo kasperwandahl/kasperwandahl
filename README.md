@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kasperwandahl
 - 👀 I’m interested in football, music and coding
-- 🌱 I’m currently learning datawarehousing
 - 📫 React me at twitter @kasperwandahl
 
 <!---
